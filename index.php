@@ -25,10 +25,14 @@
     <input type="submit" id="submit" value="CHERCHONS" class="btn btn-dark mr-2">
     <button type="button" id="reset" value="reset" class="btn btn-dark">Retour</button>
 </form>    
-
-
     </div>
 
+</div>
+<div class="jumbotron jumbotron-fluid">
+  <div class="container">
+    <h1 class="display-4">Le retour</h1>
+    <p class="lead">Voyons voir si cela va fonctionner maintenant, histoire d'apprendre.</p>
+  </div>
 </div>
 
 <script
